@@ -1,0 +1,22 @@
+{
+  "name": "pairing",
+  "version": "1.0.0",
+  "description": "Pairing people",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcinpz/pairing.git"
+  },
+  "author": "Marcin Zborek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcinpz/pairing/issues"
+  },
+  "homepage": "https://github.com/marcinpz/pairing#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
